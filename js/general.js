@@ -62,7 +62,7 @@ passwordInputDom.addEventListener("input", function () {
         return;
     }
 
-    correctPassword("Passowrd is strong!");
+    correctPassword("Password is strong!");
 });
 
 function incorrectPassword(message) {
